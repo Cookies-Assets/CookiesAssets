@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.sec1 {
+    width: 100vw;
+    height: 100vh;
+
+    background: linear-gradient(to left,rgb(111, 0, 255) , rgb(183, 0, 255));
+}
+.sec1 div {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sec1 div img{
+    height: 30%;
+    margin-left: 3rem;
+}
+.sec1 div h1{
+    color: White;
+    margin-left: 1rem;
+    font-size: 60px;
+}
